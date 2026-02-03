@@ -8,7 +8,7 @@ const grupoTrabajo = [
             nombre: "Jean Michael Soto Ortiz",
             carrera: "Ingeniería de Sistemas",
             universidad: "Universidad Simon Bolivar",
-            imagen: "img/HDV.jpg"
+            imagen: "img/jean.jpeg"
         },
         {
             nombre: "Jader Daniel Mejia Castro",
